@@ -28,8 +28,8 @@ namespace PD_24
                 switch (UserInput)
                 {
                     case "1":
-                        //UIpz2 pz2 = new UIpz2();
-                        //pz2.UIrun();
+                        UIpz2 pz2 = new UIpz2();
+                        pz2.UIrun();
                         Console.ReadKey();
                         continue;
                     case "2":
