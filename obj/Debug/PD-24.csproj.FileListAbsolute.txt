@@ -1,0 +1,7 @@
+C:\Users\Citrus\source\repos\PD-24\PD-24\bin\Debug\PD-24.exe.config
+C:\Users\Citrus\source\repos\PD-24\PD-24\bin\Debug\PD-24.exe
+C:\Users\Citrus\source\repos\PD-24\PD-24\bin\Debug\PD-24.pdb
+C:\Users\Citrus\source\repos\PD-24\PD-24\obj\Debug\PD-24.csproj.AssemblyReference.cache
+C:\Users\Citrus\source\repos\PD-24\PD-24\obj\Debug\PD-24.csproj.CoreCompileInputs.cache
+C:\Users\Citrus\source\repos\PD-24\PD-24\obj\Debug\PD-24.exe
+C:\Users\Citrus\source\repos\PD-24\PD-24\obj\Debug\PD-24.pdb
