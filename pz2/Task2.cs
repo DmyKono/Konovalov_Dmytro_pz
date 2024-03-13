@@ -6,7 +6,7 @@ using System.Security.Policy;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace pz2
+namespace PD_24
 {
     public class Task2
     {
